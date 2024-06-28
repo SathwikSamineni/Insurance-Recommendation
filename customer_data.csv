@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Marital Status,Dependents,Location,Occupation,Claims (3yrs),Claim Type,Online Activity,Service Calls,Current Insurance,Coverage,Renewal,Premium (3yrs),Recommended Insurance
+CUST1000,24,Female,Single,1,Urban,Teacher,2,Accident,15,5,Life,Basic,Yes,2400.5,Vision
+CUST1001,35,Male,Married,2,Suburban,Engineer,1,Theft,10,2,Vision,Standard,No,3200.75,Life
+CUST1002,47,Female,Divorced,0,Rural,Artist,3,Fire,5,1,Dental,Premium,Yes,4500.9,Accident
+CUST1003,29,Male,Single,0,Urban,Doctor,0,Accident,20,8,None,Basic,Yes,1100,Annuities
+CUST1004,54,Female,Married,3,Suburban,Lawyer,2,Natural Disaster,30,10,Critical illness,Standard,Yes,3700.65,Disability
+CUST1005,63,Male,Widowed,1,Rural,Unemployed,6,Other,7,4,Dental,Premium,No,4800.5,Hospital indemnity
+CUST1006,38,Female,Married,4,Urban,Accountant,1,Theft,18,12,Vision,Standard,Yes,3100.8,Accident
+CUST1007,22,Male,Single,0,Suburban,Engineer,0,Fire,25,6,Annuities,Basic,No,2100.75,Dental
+CUST1008,41,Female,Divorced,2,Rural,Teacher,4,Accident,12,7,Hospital indemnity,Premium,Yes,4300.4,Critical illness
+CUST1009,30,Male,Married,3,Urban,Doctor,2,Theft,5,9,Investments,Standard,Yes,3000.95,Annuities
+CUST1010,27,Female,Single,1,Suburban,Lawyer,0,Natural Disaster,22,10,Life,Basic,No,2000.8,Accident
+CUST1011,56,Male,Widowed,0,Rural,Artist,5,Other,8,4,Disability,Premium,Yes,4700.6,Mental
+CUST1012,33,Female,Married,2,Urban,Accountant,1,Accident,10,3,Annuities,Standard,Yes,3200.75,Hospital indemnity
+CUST1013,45,Male,Divorced,0,Suburban,Teacher,3,Fire,15,5,Critical illness,Basic,No,2900.5,Accident
+CUST1014,39,Female,Married,4,Rural,Engineer,4,Theft,20,6,Hospital indemnity,Premium,Yes,4100.3,Investments
+CUST1015,48,Male,Single,0,Urban,Doctor,2,Accident,9,7,Dental,Standard,No,3300.9,Annuities
+CUST1016,50,Female,Married,1,Suburban,Lawyer,1,Natural Disaster,18,11,Annuities,Basic,Yes,2600.85,Accident
+CUST1017,28,Male,Single,0,Rural,Artist,6,Other,14,4,Life,Premium,Yes,4500.6,Critical illness
+CUST1018,36,Female,Married,3,Urban,Accofzuntant,0,Accident,7,2,Vision,Standard,No,3100.4,Mental
+CUST1019,24,Male,Single,2,Suburban,Engineer,1,Theft,25,9,Annuities,Basic,Yes,2200.95,Accident
+CUST1020,34,Female,Divorced,0,Rural,Teacher,3,Fire,10,5,Critical illness,Premium,No,3900.75,Hospital indemnity
+CUST1021,31,Male,Married,1,Urban,Doctor,2,Natural Disaster,8,4,Disability,Standard,Yes,3400.8,Dental
+CUST1022,44,Female,Single,0,Suburban,Lawyer,5,Other,12,3,Life,Basic,No,2700.6,Disability
+CUST1023,37,Male,Widowed,3,Rural,Artist,0,Accident,14,7,Hospital indemnity,Premium,Yes,4300.7,Accident
+CUST1024,52,Female,Married,4,Urban,Accountant,4,Theft,20,6,Dental,Standard,Yes,3200.95,Vision
+CUST1025,40,Male,Single,0,Suburban,Engineer,2,Fire,5,9,Critical illness,Basic,No,3100.5,Investments
+CUST1026,27,Female,Married,1,Rural,Teacher,1,Natural Disaster,18,8,None,Premium,Yes,2800.75,Accident
+CUST1027,29,Male,Single,3,Urban,Doctor,3,Other,15,4,Investments,Standard,No,3000.9,Mental
+CUST1028,61,Female,Widowed,0,Suburban,Lawyer,6,Accident,10,7,Critical illness,Basic,Yes,4600.65,Accident
+CUST1029,47,Male,Divorced,2,Rural,Artist,0,Theft,20,5,Mental,Premium,No,4200.8,Annuities
+CUST1030,35,Female,Married,1,Urban,Accountant,1,Fire,7,9,Vision,Standard,Yes,3500.4,Hospital indemnity
+CUST1031,42,Male,Single,0,Suburban,Engineer,4,Natural Disaster,12,4,Dental,Basic,No,2700.3,Vision
+CUST1032,28,Female,Married,4,Rural,Teacher,2,Other,18,3,Life,Premium,Yes,3300.6,Dental
+CUST1033,30,Male,Single,0,Urban,Doctor,3,Accident,25,6,Vision,Standard,No,2900.5,Accident
+CUST1034,39,Female,Married,2,Suburban,Lawyer,5,Theft,20,7,Dental,Basic,Yes,4000.95,Critical illness
+CUST1035,44,Male,Widowed,0,Rural,Artist,1,Fire,5,2,Critical illness,Premium,No,3600.85,Vision
+CUST1036,31,Female,Divorced,3,Urban,Accountant,0,Natural Disaster,10,9,Vision,Standard,Yes,2700.6,Investments
+CUST1037,33,Male,Single,1,Suburban,Engineer,6,Other,8,5,Mental,Basic,No,3100.75,Accident
+CUST1038,50,Female,Married,0,Rural,Teacher,2,Accident,7,4,None,Premium,Yes,3300.8,Annuities
+CUST1039,45,Male,Single,0,Urban,Doctor,3,Theft,15,3,Life,Standard,No,2900.9,Vision
+CUST1040,29,Female,Married,1,Suburban,Lawyer,4,Fire,20,6,Hospital indemnity,Basic,Yes,3700.5,Hospital indemnity
+CUST1041,37,Male,Single,0,Rural,Artist,0,Natural Disaster,18,5,Life,Premium,No,3200.75,Accident
+CUST1042,26,Female,Divorced,2,Urban,Accountant,1,Other,10,8,Dental,Standard,Yes,2900.6,Vision
+CUST1043,34,Male,Married,0,Suburban,Engineer,5,Accident,5,7,Vision,Basic,No,2800.95,Disability
+CUST1044,41,Female,Widowed,3,Rural,Teacher,2,Theft,20,4,Life,Premium,Yes,3500.4,Dental
+CUST1045,48,Male,Single,1,Urban,Doctor,0,Fire,8,6,Dental,Standard,No,3300.3,Accident
+CUST1046,32,Female,Married,4,Suburban,Lawyer,4,Natural Disaster,12,9,Mental,Basic,Yes,3100.6,Critical illness
+CUST1047,29,Male,Divorced,0,Rural,Artist,3,Other,18,5,Vision,Premium,No,2900.7,Vision
+CUST1048,38,Female,Single,0,Urban,Accountant,6,Accident,15,4,Life,Standard,Yes,3700.65,Annuities
+CUST1049,54,Male,Married,2,Suburban,Engineer,1,Theft,10,7,Dental,Basic,No,3100.85,Accident
+CUST1050,22,Female,Single,1,Rural,Teacher,0,Fire,20,6,Life,Premium,Yes,2400.5,Hospital indemnity
+CUST1051,35,Male,Married,3,Urban,Doctor,2,Accident,5,9,Investments,Standard,No,3200.75,Life
+CUST1052,47,Female,Divorced,0,Suburban,Lawyer,3,Theft,7,2,Dental,Basic,Yes,4500.9,Accident
+CUST1053,29,Male,Single,1,Rural,Artist,0,Fire,25,8,None,Premium,Yes,1100,Dental
+CUST1054,54,Female,Married,3,Urban,Teacher,2,Natural Disaster,30,10,Life,Standard,Yes,3700.65,Investments
+CUST1055,63,Male,Widowed,0,Suburban,Engineer,6,Other,7,4,Dental,Premium,No,4800.5,Vision
+CUST1056,38,Female,Married,4,Rural,Doctor,1,Accident,18,12,Hospital indemnity,Standard,Yes,3100.8,Accident
+CUST1057,22,Male,Single,0,Urban,Lawyer,0,Fire,25,6,Life,Basic,No,2100.75,Dental
+CUST1058,41,Female,Divorced,2,Suburban,Artist,4,Theft,12,7,Investments,Premium,Yes,4300.4,Critical illness
+CUST1059,30,Male,Married,3,Rural,Accountant,2,Natural Disaster,5,9,None,Standard,Yes,3000.95,Annuities
+CUST1060,27,Female,Single,0,Urban,Engineer,0,Other,22,10,Life,Basic,No,2000.8,Accident
+CUST1061,56,Male,Widowed,1,Suburban,Teacher,5,Accident,8,4,Annuities,Premium,Yes,4700.6,Investments
+CUST1062,33,Female,Married,4,Rural,Doctor,1,Theft,10,3,Dental,Standard,Yes,3200.75,Dental
+CUST1063,45,Male,Divorced,0,Urban,Lawyer,3,Fire,15,5,Mental,Basic,No,2900.5,Accident
+CUST1064,39,Female,Married,1,Suburban,Artist,4,Natural Disaster,20,6,Vision,Premium,Yes,4100.3,Vision
+CUST1065,48,Male,Single,0,Rural,Accountant,2,Other,9,7,Dental,Standard,No,3300.9,Annuities
+CUST1066,50,Female,Married,2,Urban,Engineer,1,Accident,18,11,None,Basic,Yes,2600.85,Accident
+CUST1067,28,Male,Single,0,Suburban,Teacher,6,Theft,14,4,Life,Premium,Yes,4500.6,Dental
+CUST1068,36,Female,Married,4,Rural,Doctor,0,Fire,7,2,Vision,Standard,No,3100.4,Life
+CUST1069,24,Male,Single,1,Urban,Lawyer,1,Natural Disaster,25,9,Dental,Basic,Yes,2200.95,Accident
+CUST1070,34,Female,Divorced,0,Suburban,Artist,3,Other,10,5,Life,Premium,No,3900.75,Vision
+CUST1071,31,Male,Married,2,Rural,Accountant,2,Accident,8,4,Vision,Standard,Yes,3400.8,Dental
+CUST1072,44,Female,Single,0,Urban,Engineer,5,Theft,12,3,Investments,Basic,No,2700.6,Annuities
+CUST1073,37,Male,Widowed,1,Suburban,Teacher,0,Fire,14,7,Vision,Premium,Yes,4300.7,Accident
+CUST1074,52,Female,Married,3,Rural,Doctor,4,Natural Disaster,20,6,Dental,Standard,Yes,3200.95,Investments
+CUST1075,40,Male,Single,0,Urban,Lawyer,2,Other,5,9,Hospital indemnity,Basic,No,3100.5,Investments
+CUST1076,27,Female,Married,4,Suburban,Artist,1,Accident,18,8,None,Premium,Yes,2800.75,Accident
+CUST1077,29,Male,Single,0,Rural,Accountant,3,Theft,15,4,Vision,Standard,No,3000.9,Life
+CUST1078,61,Female,Widowed,2,Urban,Engineer,6,Fire,10,7,Dental,Basic,Yes,4600.65,Accident
+CUST1079,47,Male,Divorced,0,Suburban,Teacher,0,Natural Disaster,20,5,Life,Premium,No,4200.8,Dental
+CUST1080,35,Female,Married,1,Rural,Doctor,1,Other,7,9,Vision,Standard,Yes,3500.4,Investments
+CUST1081,42,Male,Single,3,Urban,Lawyer,4,Accident,12,4,Dental,Basic,No,2700.3,Investments
+CUST1082,28,Female,Married,0,Suburban,Artist,2,Theft,18,3,Life,Premium,Yes,3300.6,Dental
+CUST1083,30,Male,Single,1,Rural,Accountant,3,Fire,25,6,Vision,Standard,No,2900.5,Accident
+CUST1084,39,Female,Married,4,Urban,Engineer,5,Natural Disaster,20,7,Dental,Basic,Yes,4000.95,Critical illness
+CUST1085,44,Male,Widowed,0,Suburban,Teacher,1,Other,5,2,Annuities,Premium,No,3600.85,Investments
+CUST1086,31,Female,Divorced,3,Rural,Doctor,0,Accident,10,9,Vision,Standard,Yes,2700.6,Investments
+CUST1087,33,Male,Single,0,Urban,Lawyer,6,Theft,8,5,Investments,Basic,No,3100.75,Accident
+CUST1088,50,Female,Married,1,Suburban,Artist,2,Fire,7,4,None,Premium,Yes,3300.8,Life
+CUST1089,45,Male,Single,0,Rural,Accountant,3,Natural Disaster,15,3,Life,Standard,No,2900.9,Mental
+CUST1090,29,Female,Married,2,Urban,Engineer,4,Other,20,6,Disability,Basic,Yes,3700.5,Dental
+CUST1091,37,Male,Single,1,Suburban,Teacher,0,Accident,18,5,Annuities,Premium,No,3200.75,Accident
+CUST1092,26,Female,Divorced,3,Rural,Doctor,1,Theft,10,8,Hospital indemnity,Standard,Yes,2900.6,Mental
+CUST1093,34,Male,Married,0,Urban,Lawyer,5,Fire,5,7,Vision,Basic,No,2800.95,Annuities
+CUST1094,41,Female,Widowed,2,Suburban,Artist,2,Natural Disaster,20,4,Disability,Premium,Yes,3500.4,Dental
+CUST1095,48,Male,Single,0,Rural,Accountant,0,Other,8,6,Dental,Standard,No,3300.3,Accident
+CUST1096,32,Female,Married,1,Urban,Engineer,4,Accident,12,9,Annuities,Basic,Yes,3100.6,Investments
+CUST1097,29,Male,Divorced,0,Suburban,Teacher,3,Theft,14,7,Vision,Premium,No,2900.7,Vision
+CUST1098,38,Female,Single,0,Rural,Doctor,6,Fire,15,4,Life,Standard,Yes,3700.65,Dental
+CUST1099,54,Male,Married,3,Urban,Lawyer,1,Natural Disaster,10,7,Dental,Basic,No,3100.85,Accident
